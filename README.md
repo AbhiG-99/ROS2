@@ -65,25 +65,7 @@ source install/setup.bash
 - **Ex 6:** obstacle at t=0 => **(1.70, 0.00, 0.15)** in `odom`.
   (Details: docs/predictions.md)
 
-## Submission checklist (what the email requires)
 
-1. All 9 exercises completed (done above).
-2. Email to **sm3012@iiitdmj.ac.in**.
-3. Mention **Name, Roll Number, Batch** in the email body.
-4. Attach a ZIP of the whole `sm3012_tf2_exercises` folder.
-
-Suggested email:
-
-```
-Subject: SM3012 TF2 Exercises - Abhinav Giri - 24BSM001 - Batch A
-
-Name  : Abhinav Giri
-Roll  : 24BSM001
-Batch : A
-
-All 9 TF2 exercises are attached (ZIP). Exercises 1, 5 and 8 include
-the required written explanations/predictions in the docs/ folder.
-```
 
 ## Note for Windows users
 
