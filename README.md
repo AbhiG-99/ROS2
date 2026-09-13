@@ -4,7 +4,6 @@
 **Roll Number:** 24BSM001
 **Batch:** A
 **Subject Code:** SM3012
-**Submission email:** sm3012@iiitdmj.ac.in
 
 ---
 
